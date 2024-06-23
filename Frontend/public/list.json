@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "category": "Thriller Book",
+    "title": "An addictive psychological thriller with mind-bending twists",
+    "price": 10,
+    "image": "./houseMaid.jpg"
+  },
+  {
+    "id": 2,
+    "category": "Non-Fiction",
+    "title": "The Art of War",
+    "price": 0,
+    "image": "./artofwar.jpg"
+  },
+  {
+    "id": 3,
+    "category": "Biography",
+    "title": "Balidan",
+    "price": 10,
+    "image": "./balidan.jpg"
+  },
+  {
+    "id": 4,
+    "category": "Fantasy Literature",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "price": 49,
+    "image": "./harrypotter.jpg"
+  },
+  {
+    "id": 5,
+    "category": "Finance Literature",
+    "title": "The Psychology of Money",
+    "price": 27,
+    "image": "./psychologyMoney.jpg"
+  },
+  {
+    "id": 6,
+    "category": "Meditations by Marcus Aurelius",
+    "title": "Meditations is a collection of personal reflections by the Roman Emperor and Stoic philosopher Marcus Aurelius",
+    "price": 14,
+    "image": "./marcus.jpg"
+  },
+  {
+    "id": 7,
+    "category": "Tragic Romance",
+    "title": "Anna Karenina",
+    "price": 42,
+    "image": "./anna.jpg"
+  },
+  {
+    "id": 8,
+    "category": "Religion & Spirituality",
+    "title": "Stop Overthinking",
+    "price": 0,
+    "image": "./stopOverThinking.jpg"
+  },
+  {
+    "id": 9,
+    "category": "Society & Social Science",
+    "title": "BRAIN GAMES FOR CLEVER KIDS ",
+    "price": 0,
+    "image": "./kids.jpg"
+  },
+  {
+    "id": 10,
+    "category": "Literature & Fictionn",
+    "title": "The Time Machine",
+    "price": 0,
+    "image": "./timeMachine.jpg"
+  },
+  {
+    "id": 11,
+    "category": "Literature & Fiction",
+    "title": "REVOLUTION 2020 ",
+    "price": 7,
+    "image": "./love2020.jpg"
+  },
+  {
+    "id": 12,
+    "category": "Physics and Astrophysics",
+    "title": "Relativity",
+    "price": 0,
+    "image": "./relitivity.jpg"
+  },
+  {
+    "id": 13,
+    "category": "Biography",
+    "title": "The Fifth Vital",
+    "price": 6,
+    "image": "./majlak.jpg"
+  },
+  {
+    "id": 14,
+    "category": " Family & Relationships",
+    "title": "The Machiavellian's Guide to Flirting",
+    "price": 69,
+    "image": ".flirting.jpg"
+  }
+]
